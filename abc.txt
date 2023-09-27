@@ -1,0 +1,1 @@
+Name = Anuj Acharya Age = 20 Horoscope = Gemini Salary = 50000
