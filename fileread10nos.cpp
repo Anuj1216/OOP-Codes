@@ -8,7 +8,7 @@ main()
     for (int i = 0; i < 10; i++)
     {
         file>>a[i];
-        cout<<a[i]<<endl;;
+        cout<<a[i]<<endl;
     }
     return 0;
 }
